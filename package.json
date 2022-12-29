@@ -3,7 +3,7 @@
   "name": "test",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://owncodezs.github.io/Testing/",
+  "homepage":"https://Owncodezs.github.io/Testing",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
